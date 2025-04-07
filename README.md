@@ -32,7 +32,7 @@ LEVVIE-LIVVIE is a powerful WhatsApp bot built using **whatsapp-web.js**. It can
 
 ### 📌 **1. Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR_USERNAME/LEVVIE-LIVVIE-BOT.git
+git clone https://github.com/Levisonmsachi/LEVVIE-LIVVIE-BOT.git
 cd LEVVIE-LIVVIE-BOT
 # LEVVIE-LIVVIE-BOT
 A simple whatsapp bot
