@@ -1,3 +1,5 @@
+![Project Screenshot](https://github.com/Levisonmsachi/SIMPLE-CARD-TailwindCSS/blob/main/Screenshot%20(110).png?raw=true)
+
 # 🤖 LEVVIE-LIVVIE WhatsApp Bot
 
 LEVVIE-LIVVIE is a powerful WhatsApp bot built using **whatsapp-web.js**. It can send documents, videos, songs, voice notes, retrieve Google search results, and much more! 🚀  
