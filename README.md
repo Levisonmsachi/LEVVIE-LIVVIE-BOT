@@ -1,4 +1,4 @@
-![Project Screenshot](https://github.com/Levisonmsachi/SIMPLE-CARD-TailwindCSS/blob/main/Screenshot%20(110).png?raw=true)
+![Project Screenshot](https://github.com/Levisonmsachi/levvie-livvie-portfolio/blob/main/Portforio/assets/Screenshot%20(79).png?raw=true)
 
 # 🤖 LEVVIE-LIVVIE WhatsApp Bot
 
