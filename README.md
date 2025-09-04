@@ -233,12 +233,6 @@ Screenshots 📸
 
 Use .changelog inside the bot 📄
 
-Or check CHANGELOG.md
-
-📄 License
-
-Licensed under MIT License. See LICENSE
-.
 
 👨‍💻 Developer
 
