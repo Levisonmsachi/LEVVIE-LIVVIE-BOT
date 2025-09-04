@@ -1,22 +1,23 @@
 🤖 LEVVIE-LIVVIE BOT
 
-Your next-generation WhatsApp AI Assistant — merging entertainment, productivity, utilities, and futuristic AI features into one powerful bot. ✨
+Your next-generation WhatsApp AI Assistant — blending entertainment, productivity, utilities, and futuristic AI features into one powerful bot. ✨
 
-<p align="center"> <img src="https://github.com/Levisonmsachi/levvie-livvie-portfolio/blob/main/Portforio/assets/Screenshot%20(79).png?raw=true" alt="LEVVIE-LIVVIE BOT" width="750"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspal"/> <img src="https://img.shields.io/badge/Users-10K%2B-blue?style=for-the-badge&logo=users"/> <img src="https://img.shields.io/badge/Version-v1.8.4-purple?style=for-the-badge&logo=azurepipelines"/> <img src="https://img.shields.io/badge/Developer-Levison%20Msachi-orange?style=for-the-badge&logo=superuser"/> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative"/> </p>
+<p align="center"> <img src="https://github.com/Levisonmsachi/levvie-livvie-portfolio/blob/main/Portforio/assets/Screenshot%20(79).png?raw=true" alt="LEVVIE-LIVVIE BOT" width="700"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspal"/> <img src="https://img.shields.io/badge/Users-10K%2B-blue?style=for-the-badge&logo=users"/> <img src="https://img.shields.io/badge/Version-v1.8.4-purple?style=for-the-badge&logo=azurepipelines"/> <img src="https://img.shields.io/badge/Developer-Levison%20Msachi-orange?style=for-the-badge&logo=superuser"/> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative"/> </p>
 ⚡ Quick Start
 
-Get started with LEVVIE-LIVVIE BOT in seconds:
+Get started with LEVVIE-LIVVIE BOT in seconds 🚀:
 
-.search <query>        # 🔍 Smart web search  
-.song <name>           # 🎵 Download a song from YouTube  
-.document <name>       # 📂 Fetch a document  
-.alive                 # 💚 Check uptime & status  
-.help                  # ❓ Quick assistance  
+.search <query>       # 🔍 Smart web search  
+.song <name>          # 🎵 Download a song from YouTube  
+.document <name>      # 📂 Fetch a document  
+.alive                # 💚 Check uptime & status  
+.help                 # ❓ Quick assistance  
 
 
-👉 For detailed usage:
+💡 For detailed usage:
 
-.helpmenu <command>    # 📖 Example: .helpmenu football
+.helpmenu <command>
+Example: .helpmenu football
 
 📖 Table of Contents
 
@@ -42,11 +43,11 @@ Get started with LEVVIE-LIVVIE BOT in seconds:
 
 ✨ Features
 
-LEVVIE-LIVVIE comes packed with powerful modules across multiple categories:
+LEVVIE-LIVVIE comes loaded with powerful modules:
 
-🔹 Core User Commands
+🔹 Core Commands
 
-.owner → 👤 Get bot owner’s contact
+.owner → 👤 Bot owner's contact
 
 .search <query> → 🔍 Quantum web search
 
@@ -62,41 +63,49 @@ LEVVIE-LIVVIE comes packed with powerful modules across multiple categories:
 
 .trivia → 📚 Trivia games
 
+.game → 🎮 Mini-games
+
 .math → 🧮 Math problem solver
 
 🔹 Media Processing
 
-.song <name> → 🎵 YouTube audio
+.song <name> → 🎵 Download YouTube audio
 
-.video <name> → 🎬 YouTube video
+.video <name> → 🎬 Download YouTube video
 
-.picture <name> → 🖼 Google images
+.picture <name> → 🖼 Fetch Google images
 
-.yt <query> → 🔗 YouTube links
+.yt <query> → 🔗 YouTube search links
 
-.voice <text> → 🗣 Text-to-speech
+.voice <text> / .tts <text> → 🗣 Text-to-Speech
 
-.voiceclone <text> → 🎙 AI voice TTS
+.voicehelp → 🎙 Voice guide
 
 🔹 Utilities
 
-.ping → 🏓 Check bot latency
+.ping → 🏓 Check bot response
 
-.weather <location> → 🌤 Weather updates
+.weather <location> → 🌤 Weather info
 
-.translate <text> to <lang> → 🌍 Translation
+.translate <text> to <lang> → 🌍 Translate text
 
 .reminder <time> <msg> → ⏰ Set reminders
 
-.note <text> → 📝 Save notes
+.quiz → 🎯 Quiz game
+
+.note <text> → 📝 Personal notes
 
 .currency <amt> <from> <to> → 💰 Currency conversion
 
 🔹 Astronomy & Science
 
-.astronomy → 🌌 NASA Picture of the Day
+.astronomy → 🌌 NASA APOD
 
 .nasa → 🚀 NASA content
+
+.cosmic → ⭐ Space facts
+
+.space → 🔭 Exploration news
 
 .spacefact → 🌠 Random space fact
 
@@ -106,19 +115,29 @@ LEVVIE-LIVVIE comes packed with powerful modules across multiple categories:
 
 .goals → 🎯 Goal highlights
 
-.standings → 📊 League tables
+.standings <league> → 📊 EPL, LaLiga, etc.
 
 .fixtures <team> → 📅 Match schedule
 
-✨ AI & Quantum Commands
+.subscribe <team> → 🔔 Alerts
 
-.aichat <msg> → 🧠 AI conversation
+.mysubs → 📋 View subscriptions
+
+.team <name> → ℹ️ Team details
+
+✨ AI & Quantum
+
+.aichat <msg> → 🧠 Talk with AI
 
 .predict <q> → 🔮 Futuristic predictions
 
-.aiimage <prompt> → 🖼 Generate AI sci-fi art
+.analyze <text> → 🧬 Neural text analysis
 
-.systemstatus → 🖥 AI diagnostics
+.aiimage <prompt> → 🖼 AI image generator
+
+.voiceclone <text> → 🗣 AI voice output
+
+.systemstatus → 🖥 Diagnostics
 
 .hack <target> → 🕹 Fun hacking sim
 
@@ -129,46 +148,49 @@ Node.js (v16+) 🟢
 
 WhatsApp account 📱
 
-FFmpeg 🎬
+FFmpeg installed 🎬
 
 🔧 Setup
-# Clone repo  
-git clone https://github.com/Levisonmsachi/levvie-livvie-bot.git  
+# Clone the repo  
+git clone https://github.com/Levisonmsachi/levvie-livvie-bot.git
 cd levvie-livvie-bot  
 
 # Install dependencies  
 npm install  
 
 # Configure environment  
-cp .env.example .env  
-# Edit with your credentials  
+cp .env.example .env
+nano .env  
 
-# Start bot  
+# Start the bot  
 npm start  
 
 🐳 Docker
-docker pull levisonmsachi/levvie-livvie-bot:latest  
-docker run -d --name levvie-bot levisonmsachi/levvie-livvie-bot  
+docker pull levisonmsachi/levvie-livvie-bot:latest
+docker run -d --name levvie-bot levisonmsachi/levvie-livvie-bot
 
 ⚙️ Configuration
 
-Edit .env:
+Update your .env:
 
-SESSION_ID=your_session_id  
-PREFIX=.  
-MONGODB=mongodb://localhost:27017/levvie-bot  
-OPENAI_API_KEY=your_openai_key  
+SESSION_ID=your_session_id
+PREFIX=.
+MODS=1234567890
+MONGODB=mongodb://localhost:27017/levvie-bot
+OPENAI_API_KEY=your_openai_key
 
 📋 Usage
-🎯 Basic Commands
-.help                 # Show menu  
-.helpmenu <command>   # Detailed help  
-.alive                # Check uptime  
-.ping                 # Response time  
+🎯 Basic
+.help        # All commands  
+.helpmenu ai # Detailed AI guide  
+.alive       # Bot status  
+.ping        # Response time  
 
-🎙 Advanced Usage
-.helpmenu football    # Football guide  
-.helpmenu ai          # AI guide  
+🚀 Advanced
+
+.helpmenu football → ⚽ football guide
+
+.helpmenu media → 🎬 media guide
 
 🔧 System Status
 Status	Value	Emoji
@@ -179,41 +201,44 @@ Status	Value	Emoji
 🔄 Core	Operational	⚙️
 🤝 Contributing
 
-We welcome contributions ❤️
+We welcome contributions! 🎉
 
-Fork repo 🍴
+Fork this repo 🍴
 
-Create feature branch 🌿
+Create a feature branch git checkout -b feature/amazing-feature
 
-Commit changes 💾
+Commit changes git commit -m "Add amazing feature"
 
-Push 🚀
+Push branch git push origin feature/amazing-feature
 
-Open PR 📬
+Open a PR 🚀
 
 🐛 Reporting Issues
 
-Use .support in-bot 🛟
+Found a bug? 🐞
 
-Or GitHub Issues 📋
+Use .support inside the bot 🛟
+
+Open a GitHub issue 📋
 
 Include:
 
 Steps to reproduce 🔁
 
-Expected vs Actual ✅/❌
+Expected vs Actual behavior ⚖️
 
 Screenshots 📸
 
 📜 Changelog
 
-Run .changelog in-bot 📄
+Use .changelog inside the bot 📄
 
-Or see CHANGELOG.md
+Or check CHANGELOG.md
 
 📄 License
 
-MIT License © 2025
+Licensed under MIT License. See LICENSE
+.
 
 👨‍💻 Developer
 
@@ -222,5 +247,6 @@ Levison Msachi 🧑‍💻
 GitHub: @Levisonmsachi
 
 Email: levisonmsachi03@gmail.com
+ 📧
 
-<p align="center"><b>⭐ Star this repo if you love LEVVIE-LIVVIE BOT! 🌟</b></p> <p align="center"><sub>Built with ❤️ and JavaScript ☕</sub></p> <p align="center"><sub>⚡ Powered by LEVVIE-LIVVIE 2025 🚀</sub></p>
+<p align="center"><b>⭐ Star this repo if you like LEVVIE-LIVVIE BOT! 🌟</b></p> <p align="center"><sub>Built with ❤️ and JavaScript ☕</sub></p> <p align="center"><sub>⚡ Powered by LEVVIE-LIVVIE 2025 🚀</sub></p>
