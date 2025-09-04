@@ -1,23 +1,15 @@
-![Project Screenshot](https://github.com/Levisonmsachi/levvie-livvie-portfolio/blob/main/Portforio/assets/Screenshot%20(79).png?raw=true)
-
 🤖 LEVVIE-LIVVIE BOT
 
-Your next-generation WhatsApp AI Assistant — entertainment, productivity, utilities, and futuristic AI features all in one bot.
+Your next-generation WhatsApp AI Assistant — bringing entertainment, productivity, utilities, and futuristic AI features into one bot.
 
-
-
+<p align="center"> <img src="https://github.com/Levisonmsachi/levvie-livvie-portfolio/blob/main/Portforio/assets/Screenshot%20(79).png?raw=true" alt="LEVVIE-LIVVIE BOT" width="700"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Users-10K%2B-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Version-v1.8.4-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Developer-Levison%20Msachi-orange?style=for-the-badge"/> </p>
 ⚙️ System Status
-
-✅ Online: Active
-
-⏱ Ping: 42ms
-
-⏰ Uptime: 1h 3m
-
-📊 Version: v1.8.4
-
-🔄 System Core: Operational
-
+Status	Value
+✅ Online	Active
+⏱ Ping	42ms
+⏰ Uptime	1h 3m
+📊 Version	v1.8.4
+🔄 Core	Operational
 👨‍💻 About Me
 
 🔷 Name: LEVVIE-LIVVIE BOT
@@ -38,12 +30,16 @@ Your next-generation WhatsApp AI Assistant — entertainment, productivity, util
 .help                 # Quick assistance
 
 
-💡 Use .helpmenu <command> for detailed guidance
-Example: .helpmenu search | .helpmenu football
+💡 For detailed usage:
 
+.helpmenu <command>
+.helpmenu search
+.helpmenu football
+
+📌 Features
 🔹 Core User Commands
 
-📌 .owner → Get the bot owner's contact
+📌 .owner → Get bot owner's contact
 
 🔍 .search <query> → Quantum web search
 
@@ -55,11 +51,11 @@ Example: .helpmenu search | .helpmenu football
 
 🤯 .fact → Interesting fact
 
-🧩 .riddle → Solve a riddle
+🧩 .riddle → Solve riddles
 
-📚 .trivia → Knowledge trivia
+📚 .trivia → Trivia games
 
-🎮 .game → Fun mini-games
+🎮 .game → Mini-games
 
 🧮 .math → Math problem solver
 
@@ -75,11 +71,9 @@ Example: .helpmenu search | .helpmenu football
 
 🔗 .yt <query> → YouTube links
 
-🗣 .voice <text> → Text → speech
+🗣 .voice <text> / .tts <text> → Text-to-speech
 
-🔊 .tts <text> → Text-to-speech
-
-🎙 .voicehelp → Voice command guide
+🎙 .voicehelp → Voice guide
 
 🔹 Utilities
 
@@ -87,29 +81,29 @@ Example: .helpmenu search | .helpmenu football
 
 🌤 .weather <location> → Weather updates
 
-🌍 .translate <text> to <lang> → Translation
+🌍 .translate <text> to <lang> → Translate text
 
 ⏰ .reminder <time> <msg> → Set reminders
 
 🎯 .quiz → Quiz game
 
-📝 .note <text> → Save personal notes
+📝 .note <text> → Save notes
 
-🕒 .time → Current time info
+🕒 .time → Current time
 
 💰 .currency <amt> <from> <to> → Currency conversion
 
 🔹 Astronomy & Science
 
-🌌 .astronomy → NASA astronomy pic of the day
+🌌 .astronomy → NASA APOD
 
-🚀 .nasa → NASA space content
+🚀 .nasa → NASA content
 
 ⭐ .cosmic → Space facts
 
-🔭 .space → Space exploration
+🔭 .space → Exploration news
 
-🌠 .spacefact → Random space fact
+🌠 .spacefact → Random fact
 
 ⚽ Football Commands
 
@@ -117,57 +111,55 @@ Example: .helpmenu search | .helpmenu football
 
 🎯 .goals → Goal highlights
 
-📊 .standings <league> → EPL, LaLiga, etc
+📊 .standings <league> → EPL, LaLiga, etc.
 
 📅 .fixtures <team> → Team schedule
 
-🔔 .subscribe <team> → Alerts for team/league
-
-🔕 .unsubscribe <team> → Stop alerts
+🔔 .subscribe <team> / .unsubscribe <team> → Alerts
 
 📋 .mysubs → View subscriptions
 
-ℹ️ .team <name> → Team details
+ℹ️ .team <name> → Team info
 
 ✨ AI & Quantum Commands
 
-🧠 .aichat <msg> → Chat with AI
+🧠 .aichat <msg> → AI conversation
 
-🔮 .predict <q> → Futuristic prediction
+🔮 .predict <q> → Futuristic predictions
 
-🧬 .analyze <text> → Neural text analysis
+🧬 .analyze <text> → Neural analysis
 
-🖼 .aiimage <prompt> → AI sci-fi images
+🖼 .aiimage <prompt> → AI sci-fi image gen
 
-🗣 .voiceclone <text> → AI voice TTS
+🗣 .voiceclone <text> → AI voice output
 
 🔓 .decrypt <text> → Fun encrypt/decrypt
 
 🖱 .scanqr <img> → QR scanner
 
-🖥 .systemstatus → AI diagnostics
+🖥 .systemstatus → Diagnostics
 
-🕹 .hack <target> → Playful hacking sim
+🕹 .hack <target> → Fun hacking sim
 
 🔧 Support & System
 
-🛠 .support → Bug reports & support
+🛠 .support → Report bugs
 
-📋 .changelog → Updates & features
+📋 .changelog → Latest updates
 
-💡 .suggest <idea> → Suggest new features
+💡 .suggest <idea> → Suggest features
 
 📊 .stats → Usage stats
 
-⚡ Admin Commands (Owner Only)
+⚡ Admin (Owner Only)
 
-🚨 .kick <@user> → Remove user
+🚨 .kick <@user> → Kick user
 
 🚀 .restart → Restart bot
 
-🔇 .mute / .unmute → Group control
+🔇 .mute / .unmute → Group mute control
 
-📅 .schedule <time> <msg> → Auto messages
+📅 .schedule <time> <msg> → Scheduled messages
 
 🚫 .block <@user> → Block user
 
@@ -179,15 +171,15 @@ Example: .helpmenu search | .helpmenu football
 
 .help → Show menu
 
-.helpmenu <command> → Detailed guide
+.helpmenu <command> → Detailed help
 
 .helpmenu football → Football guide
 
-.helpmenu ai → AI guide
+.helpmenu ai → AI commands
 
-.helpmenu media → Media guide
+.helpmenu media → Media processing
 
-.helpmenu astronomy → Space guide
+.helpmenu astronomy → Space commands
 
 .helpmenu support → Support guide
 
@@ -195,20 +187,22 @@ Example: .helpmenu search | .helpmenu football
 
 Use .helpmenu <command> for voice-guided help
 
-Check .changelog for the latest updates
+Always check .changelog for updates
 
 Report issues with .support
 
-Suggest new ideas with .suggest
+Suggest new features with .suggest
 
 🚀 Getting Started
 
+Clone the repo & install dependencies
+
+Run the bot on your preferred platform (Node.js / PM2)
+
 Pick a command from the menu
 
-Run .helpmenu <command> for instructions
-
-Follow examples provided
+Type .helpmenu <command> for instructions
 
 Ask for help anytime with .support
 
-⚡ Powered by LEVVIE-LIVVIE 2025
+⚡ Powered by LEVVIE-LIVVIE 2025 🚀
